@@ -54,7 +54,7 @@ For technical look at the system architecture, please refer to the diagram below
 `pip install scikit-learn`
 
 3. Clone the repository onto your local machine. Choose a directory that you plan to have the program in, open a terminal window on that directory, and run the following command line to clone:
-`git clone https://github.com/dussec/real-estate-price-analysis.git`
+`git clone https://github.com/KarthikTurimella/realestateproject.git`
 4. Go to the Zillow website ([website](https://www.zillow.com/)) and search for homes (for sale) in the Denver. Try to include a variety of areas (Aurora, Centennial, etc) and a broad criteron for a large dataset. Once you're done with the search, copy the link in the address bar. If you wish, you can use this link already provided in the `zillow_example.txt` file under the 'Examples' folder.
 
 5. Open a new terminal window on the folder `Main`.  
